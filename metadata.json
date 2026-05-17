@@ -1,0 +1,6 @@
+{
+  "name": "ColorPalette AI",
+  "description": "AI-powered personal color analysis and styling consultation. Upload a photo to discover your seasonal color type and get personalized recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
